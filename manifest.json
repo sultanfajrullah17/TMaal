@@ -1,0 +1,18 @@
+{
+  "name": "TMaal Keuangan Offline",
+  "short_name": "TMaal",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "description": "Aplikasi Keuangan Offline untuk Masjid, Mushola & UMKM",
+  "icons": [
+    {
+      "src": "Design/Logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
